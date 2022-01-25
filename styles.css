@@ -1,0 +1,35 @@
+a {
+  color: #007BA7;
+}
+a:after {
+  color: #007BA7;
+}
+button {
+  font-weight: bold;
+}
+  hr {width:20%;
+    border-style: dotted none none;
+    height: 0;
+    border-width: 1px;
+    border-color: #EA561B;
+  }
+  body {background-color: AliceBlue;
+margin-left: 25%;
+margin-right: 25%;
+  }
+h1 {color: #EA561B;}
+h3 {color: #007BA7;}
+input {
+  outline-style: dotted;
+  outline-width: .5px;
+  border-style: none;
+}
+table {
+  outline-style: none;
+  border-style: none;
+  box-shadow: none;
+  border: 1px;
+}
+.star {
+  font-size: 130%;
+}
